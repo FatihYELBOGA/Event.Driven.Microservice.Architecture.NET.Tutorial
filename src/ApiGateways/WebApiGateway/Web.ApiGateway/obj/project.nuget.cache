@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FoOzl2n2jEfWGtfkUJlTEDjSiP0KhMXpOpxtAQaksQr04C/qvfO8YoWntAqoj8RMgESQi+AgzweJeu9D/zl0lg==",
+  "dgSpecHash": "/PhlkGWMNdem9/AJPs0Ado6z45sI1QOVrcGr16Dlfu6iRM+jN5jPOfCjK1pGe3RI7ExIprpW7YoWSHeVrhhKNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

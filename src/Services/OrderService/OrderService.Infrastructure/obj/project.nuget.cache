@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCnpasc6iEwJmX2lr3vTqdJg5MzWpDITXnP6mrS1F3gpjNun5us3APQk3u5pfvYuBUwjw9EmpuMN3HebuBoE5w==",
+  "dgSpecHash": "g+bfgAp2aBfrS1UN90OmeFRyoLHOG8Avrrp/N+MZIxuwVsQYCoIxt5lh72qmzEFBh2Pawvre/KVQtcnkA+zOYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

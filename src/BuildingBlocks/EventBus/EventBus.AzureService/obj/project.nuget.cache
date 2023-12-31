@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPQWzX7txRS18YM/2FWNwGbSh4a8lRMOnOaXFX/FsX8utc401jRXA6R1DPPSQAzeZw6EQTx+LXtENmLvv5eF2Q==",
+  "dgSpecHash": "O8TW22u/wa9bZup+yftmeOijJWx13H4oMhkujv+5h5G/1Ak/EU+iwfmWIe+ZkFGq9QFbEVCp5g7USpmTWMK7Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.AzureService\\EventBus.AzureService.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.AzureService\\EventBus.AzureService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

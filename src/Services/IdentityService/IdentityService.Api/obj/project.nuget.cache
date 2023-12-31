@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "THbPSVUFR/Q6w4e+d0keRtg0QRYvjGJPmnbGQr6Ve3VnMysr2gd7ZITi1Zt6UDD0Syuwja6BcQu57JZ8PGMfTw==",
+  "dgSpecHash": "cXdz7ljtdFAYq5lOOrBXSMQhmDnLgaLb6Pb6fbwz6TTh92tnE8ajekNDVfAcomwwBbUVHXymrfQCI8euQ33P/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

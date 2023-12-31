@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
+    "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
+    "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "projectName": "Web.ApiGateway",
-        "projectPath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
+        "outputPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fatih YELBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",

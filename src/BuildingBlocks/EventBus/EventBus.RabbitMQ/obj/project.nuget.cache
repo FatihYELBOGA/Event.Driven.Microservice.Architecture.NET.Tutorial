@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iaMZRqPWr+gpa/fzIcXwXcEb2KTigt2T03jS1mXKdXgKOFrgGnnIsT+mMeqx1Vn3Ch2cazWLlL1fV/8TQpLcLA==",
+  "dgSpecHash": "GUIb1Hm1vP3Pqbr7rNcIF3bvjghGKDTgmw/3gVS2O32upIquS056/uaF8RuRPBTnezfGOSPM0flJTQTm8I9P6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

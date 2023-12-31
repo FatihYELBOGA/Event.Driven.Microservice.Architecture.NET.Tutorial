@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btxGQoasu1ZPfKDdhet2C1na/A8VUgWm1KO6JpmcbfIMQKAwes853qiY4650NVznGyeym8q5xkdJc6/wau7H2A==",
+  "dgSpecHash": "gXQi5Ge/EucSefMXkjaRZhMmLgc0okErfCpQT3p8ZiuhcRQjHwGcsJLeCFTrl+IU3I+QKNYmvw1dWVgm5bf+5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

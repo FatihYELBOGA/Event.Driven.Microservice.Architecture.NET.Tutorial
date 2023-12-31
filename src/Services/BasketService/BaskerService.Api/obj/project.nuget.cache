@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+NzC73Pd5Mdd0NPPpRafnC771R18Cs6drvv6wNftU8MFx9YI5pN6Y4n3XDh+9OGD3I9cZVUZFkN/oJgX1UoGYA==",
+  "dgSpecHash": "OPd5ojKHIl/NgUQupFT1SV9mRV5eEX8bJ1iUSyoZb/9ps4bhm53fX6aRtn+1oAv2kSgVu4AeS1RcQjO67zzRJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BaskerService.Api.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BaskerService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

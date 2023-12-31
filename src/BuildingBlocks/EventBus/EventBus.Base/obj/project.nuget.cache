@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9SBuK2cntXqn/ejWa5H4E1jd0Y/yw/ljfFbxKvqBwPuEpKrc03eCZbcXAgzPNmpjG4k8QwAt4Rf9h7/nkiRK4A==",
+  "dgSpecHash": "Amf0utKGrxxLkRAPbDHwtpkCCTMhrb/c0tgEp24CuvCc6P04eU+4xLeGhj57cN/PrqmOWJQ/ksntj8MX3xJSDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\source\\repos\\E-Commerce.Microservice.Management.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

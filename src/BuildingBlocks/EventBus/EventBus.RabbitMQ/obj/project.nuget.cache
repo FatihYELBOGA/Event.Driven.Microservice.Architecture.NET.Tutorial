@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "GUIb1Hm1vP3Pqbr7rNcIF3bvjghGKDTgmw/3gVS2O32upIquS056/uaF8RuRPBTnezfGOSPM0flJTQTm8I9P6w==",
+  "dgSpecHash": "2dvO4W/kEktGT0Up5ybgQzDeMpSrXlV/Sla240D6XWpF9TF4tVsHDA4IvMepR1qVT5hQUul0L1M02Og36DWFYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\polly\\8.2.1\\polly.8.2.1.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\polly.core\\8.2.1\\polly.core.8.2.1.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

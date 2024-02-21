@@ -442,9 +442,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BaskerService.Api.csproj",
-      "projectName": "BaskerService.Api",
-      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BaskerService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BasketService.Api.csproj",
+      "projectName": "BasketService.Api",
+      "projectPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\BasketService.Api.csproj",
       "packagesPath": "C:\\Users\\Fatih YELBOĞA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Fatih YELBOĞA\\Documents\\GitHub\\E-Commerce.Microservice.ASP.NET.Tutorial\\src\\Services\\BasketService\\BaskerService.Api\\obj\\",
       "projectStyle": "PackageReference",

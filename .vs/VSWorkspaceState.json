@@ -3,7 +3,8 @@
     "",
     "\\src",
     "\\src\\BuildingBlocks",
-    "\\src\\BuildingBlocks\\EventBus"
+    "\\src\\BuildingBlocks\\EventBus",
+    "\\src\\BuildingBlocks\\EventBus\\EventBus.AzureService"
   ],
   "SelectedNode": "\\E-Commerce.Microservice.Management.sln",
   "PreviewInSolutionExplorer": false
